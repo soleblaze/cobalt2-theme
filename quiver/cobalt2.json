@@ -103,7 +103,7 @@
 "textColor": "#ffffff",
 "popUpButton":{
 "titleColor": "#cccccc",
-"borderColor": "#cccccc",
+"borderColor": "#cccccc"
 },
 "tagField":{
 "textColor": "#edc809",
